@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+  <h1>brouillon {{ .Draft}}</h1>
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{ end }}
+ 
+  <hr>
+  <p>template List.html</p>
+  <p>Type : {{ .Page.Type }}</p>
+  <p>Kind : {{.Page.Kind}}</p>
+  <p>file : {{.Page.File}}</p>
+  <p>BundleType : {{.Page.BundleType}}</p>
+
+{{ end }}
