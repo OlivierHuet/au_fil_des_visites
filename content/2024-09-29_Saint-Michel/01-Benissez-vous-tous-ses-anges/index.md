@@ -4,8 +4,8 @@ date = 2024-09-29T17:30:44+02:00
 weight = 5
 draft = false
 +++
-Paraphrase de l'introït de la fête<!--more-->
-Bénissez le Seigneur, vous-tous, ses anges !
+Paraphrase d'un extrait de l'introït de la fête<!--more-->
+***Bénissez le Seigneur, vous-tous, ses anges !***
 
 Le psalmiste exorte les Anges à bénir le Seigneur, notre créateur à eux et à nous.
 
