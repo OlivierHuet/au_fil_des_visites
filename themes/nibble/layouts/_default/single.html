@@ -5,9 +5,9 @@
         <a href="{{ .RelPermalink }}">Précédent</a>
     {{end}} 
 </nav>
-    <div class="card-body" >
+    <div class="card-body">
    
-    <div class="card-img-top">       
+    <div class="card-img-top" style="height:auto;">       
             {{ range .Resources.ByType "image" }}
             <img src="{{ .RelPermalink }}"  width="100%" alt="{{ .Title }}" />
             {{ end }}

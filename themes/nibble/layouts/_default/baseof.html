@@ -9,18 +9,16 @@
 
 <body>
   
-  <div class="container m-auto">
+  <div class="container m-auto" style="width:50%;">
     <header>
       {{ partial "header.html" . }}
     </header>
 
-    <div class="card">
+    <div class="card-body" >
       {{ block "main" . }}{{ end }}
     </div>
     <footer class="font-weight-light font-italic">
-      {{ partial "footer.html" . }}
-
-      
+      {{ partial "footer.html" . }} 
     </footer>
   </div>
 </body>
