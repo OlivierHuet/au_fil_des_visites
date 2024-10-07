@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/2024-09-29_saint-michel/00-intro/</loc>
+    <lastmod>2024-09-29T17:30:44+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2024-09-29_saint-michel/01-benissez-vous-tous-ses-anges/</loc>
     <lastmod>2024-09-29T17:30:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024-10-06_nd-du-rosaire/00_intro/</loc>
+    <lastmod>2024-10-07T09:07:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024-09-29_saint-michel/02-puissants-en-force/</loc>
     <lastmod>2024-09-29T17:30:44+02:00</lastmod>
@@ -12,6 +18,15 @@
     <lastmod>2024-05-31T17:24:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024-09-29_saint-michel/03-qui-accomplissez/</loc>
+    <lastmod>2024-09-29T17:30:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024-10-06_nd-du-rosaire/</loc>
+    <lastmod>2024-10-07T09:02:23+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024-09-29_saint-michel/04-benis-mon-ame/</loc>
+    <lastmod>2024-09-29T17:30:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024-09-29_saint-michel/05-et-tout-ce-qui-est-en-moi/</loc>
     <lastmod>2024-09-29T17:30:44+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024-09-29_saint-michel/06-pri%C3%A8re/</loc>

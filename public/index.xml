@@ -7,14 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Olivier Huet</copyright>
-    <lastBuildDate>Sun, 29 Sep 2024 17:30:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 09:07:12 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benissez-vous tous ses anges</title>
+      <link>http://localhost:1313/2024-09-29_saint-michel/00-intro/</link>
+      <pubDate>Sun, 29 Sep 2024 17:30:44 +0200</pubDate>
+      <guid>http://localhost:1313/2024-09-29_saint-michel/00-intro/</guid>
+      <description>&lt;p&gt;Paraphrase d&amp;rsquo;un extrait l&amp;rsquo;introït&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Benissez-vous tous ses anges</title>
       <link>http://localhost:1313/2024-09-29_saint-michel/01-benissez-vous-tous-ses-anges/</link>
       <pubDate>Sun, 29 Sep 2024 17:30:44 +0200</pubDate>
       <guid>http://localhost:1313/2024-09-29_saint-michel/01-benissez-vous-tous-ses-anges/</guid>
       <description>&lt;p&gt;Paraphrase d&amp;rsquo;un extrait de l&amp;rsquo;introït de la fête&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>00_intro</title>
+      <link>http://localhost:1313/2024-10-06_nd-du-rosaire/00_intro/</link>
+      <pubDate>Mon, 07 Oct 2024 09:07:12 +0200</pubDate>
+      <guid>http://localhost:1313/2024-10-06_nd-du-rosaire/00_intro/</guid>
+      <description>&lt;p&gt;Paraphrase d&amp;rsquo;un extrait de l&amp;rsquo;Epitre&lt;/p&gt;</description>
     </item>
     <item>
       <title>Puissants en force</title>
@@ -29,6 +43,20 @@
       <pubDate>Sun, 29 Sep 2024 17:30:44 +0200</pubDate>
       <guid>http://localhost:1313/2024-09-29_saint-michel/03-qui-accomplissez/</guid>
       <description>Qui accomplissez, c&amp;rsquo;est à dire qui rendez réel ce qu&amp;rsquo;exprime Dieu à ses anges.&#xA;Sa parole, évidemment Dieu n&amp;rsquo;a pas de bouche pour parler comme nous en avons uen et les anges n&amp;rsquo;ont pas d&amp;rsquo;oreilles pour entendre.&#xA;Ceci est une image pour nous aider à comprendre qu&amp;rsquo;il y a le même rapport dans notre moyen de communication de bouche à oreilles qu&amp;rsquo;entre les anges et Dieu.&#xA;C&amp;rsquo;est à dire qu&amp;rsquo;il n&amp;rsquo;y a pas d&amp;rsquo;ambigüité pour les anges de savoir qui &amp;ldquo;parle&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Bénis mon âme</title>
+      <link>http://localhost:1313/2024-09-29_saint-michel/04-benis-mon-ame/</link>
+      <pubDate>Sun, 29 Sep 2024 17:30:44 +0200</pubDate>
+      <guid>http://localhost:1313/2024-09-29_saint-michel/04-benis-mon-ame/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Et tout ce qui est en moi</title>
+      <link>http://localhost:1313/2024-09-29_saint-michel/05-et-tout-ce-qui-est-en-moi/</link>
+      <pubDate>Sun, 29 Sep 2024 17:30:44 +0200</pubDate>
+      <guid>http://localhost:1313/2024-09-29_saint-michel/05-et-tout-ce-qui-est-en-moi/</guid>
+      <description></description>
     </item>
     <item>
       <title>Prière</title>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solénité Notre Dame du Rosaire, Chapelle Saint Grégoire - Le Havre. 6 octobre 2024  on Au fil des dimanches</title>
+    <link>http://localhost:1313/2024-10-06_nd-du-rosaire/</link>
+    <description>Recent content in Solénité Notre Dame du Rosaire, Chapelle Saint Grégoire - Le Havre. 6 octobre 2024  on Au fil des dimanches</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Olivier Huet</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 09:07:12 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/2024-10-06_nd-du-rosaire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>00_intro</title>
+      <link>http://localhost:1313/2024-10-06_nd-du-rosaire/00_intro/</link>
+      <pubDate>Mon, 07 Oct 2024 09:07:12 +0200</pubDate>
+      <guid>http://localhost:1313/2024-10-06_nd-du-rosaire/00_intro/</guid>
+      <description>&lt;p&gt;Paraphrase d&amp;rsquo;un extrait de l&amp;rsquo;Epitre&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
