@@ -7,7 +7,7 @@
 </nav>
     <div class="card-body">
    
-    <div class="card-img-top" style="height:auto;">       
+    <div class="card-img-top h-50">       
             {{ range .Resources.ByType "image" }}
             <img src="{{ .RelPermalink }}"  width="100%" alt="{{ .Title }}" />
             {{ end }}
