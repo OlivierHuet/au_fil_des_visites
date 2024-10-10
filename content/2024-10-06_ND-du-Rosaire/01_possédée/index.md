@@ -7,10 +7,17 @@ draft = true
 
 *"Bienheureux ceux qui m'écoutent"*
 
+Faisons une hypothèse : ce "quelque chose" possédé par Dieu avant la création est un outil de mesure.
 
-Dans quels sens le mot "posséder" peut-il être compris dans ce contexte particulier ?
+Ce qui se conçoit puisque c'est dans l'ordre de pouvoir évaluer ce que l'on conçoit avant de le concevoir. Il faut un but, un étalon Et cet étalon permet à Dieu de déterminer la bonté de ce qu'il va créer.
 
-Il y a un sens biblique du terme "posséder" qui est valable pour les créatures.
+Peut-on vérifier cela dans la Bible. Nous notons que dans la Genèse, à chaque étape, Il juge de la bonté de chaque élément créé, jusqu'à la fin où il prononce un double jugement.
+
+Quel rapport avec la Sainte Vierge ?
+
+ qui va lui permettre de mettre à l'épreuve la création ; une sorte d'étalon valable pour toutes les créatures intelligentes, utilisé par Dieu pour évaluer en toute justice anges et hommes.
+
+
 
  Mais dans ce contexte d'avant la création, nous faisons plutôt l'hypothèse qu'il s'agit d'une sorte de d'outil, ou plus précisément d'une règle, d'un étalon qui va permettre de mettre à l'épreuve la création.
 
