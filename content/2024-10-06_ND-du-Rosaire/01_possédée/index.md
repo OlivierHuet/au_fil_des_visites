@@ -1,11 +1,15 @@
 +++
 title = 'Posséder'
 date = 2024-10-08T08:39:31+02:00
-draft = true
+draft = false
 +++
+Paraphrase d'un extrait du livre de la Sagesse tirée de l'Epitre<!--more--> 
+
 *"Le Seigneur m'a possédée au commencement de ses voies."*
 
 *"Bienheureux ceux qui m'écoutent"*
+
+Qu'est ce que cette "chose" possédée par Dieu avant toute création, c'est à dire avant celle des Anges et celle de la terre ?
 
 Faisons une hypothèse : ce "quelque chose" possédé par Dieu avant la création est un outil de mesure.
 
