@@ -1,17 +1,16 @@
 +++
-title = '21ème dimanche après la Pentecôte'
+title = 'Le casque du salut'
 date = 2024-10-13T16:06:31+02:00
 weight = 10
 draft = false
 +++
-Paraphrase d'un extrait de l'Epitre de Saint paul aux Ephésiens <!--more-->
-
+<!--
 *Prenez le casque du salut*
 
 Oui mais comment faire ? Concrètement c'est quoi, ce casque du salut ?
-
+-->
 Le salut en général est un secours opportun qui survient lorsque nous nous trouvons en difficulté.
-
+<!--
 Or, lorsque nous sommes assaillis par les difficultés, la première chose que nous faisons est d'y penser et d'y repenser, de faire tourner dans notre tête tout un peuple d'idées qui finissent pas nous rendre captifs et angoissés.
 
 Le casque du salut doit nous protéger de ces pensées tortionnaires en nous rappelant que de Dieu viendra pour nous un secours opportun.
@@ -25,4 +24,4 @@ Si pendant notre vie, nous nous entrainons à porter ce casque du salut, nous no
 Ô vous qui vivez et régnez avec Dieu le Père et le Saint-Esprit dans les siècles des siècles, formant à vous trois un Dieu unique incompréhensible et joyeux.
 
 Amen
-
+-->

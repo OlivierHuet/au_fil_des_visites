@@ -7,20 +7,22 @@
 
   </script>
 
-<body style="max-height: 800px;">
+<body >
   
-  <div class="container m-auto">
-    <header>
+  <div class="container m-auto border">
+    
+    <header class="border text-center">
       {{ partial "header.html" . }}
     </header>
 
-    <div class="" >
+    <div class="border border-primary">
       {{ block "main" . }}{{ end }}
-    </div>
+    </div>  
     <footer class="font-weight-light font-italic">
       {{ partial "footer.html" . }} 
     </footer>
   </div>
+  
 </body>
 
 
