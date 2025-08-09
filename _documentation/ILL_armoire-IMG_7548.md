@@ -1,0 +1,7 @@
+Il s'agit d'un gros plan d'un placard en bois, rempli de vêtements et d'autres articles soigneusement organisés. Le placard semble être fait d'un bois de couleur claire, peut-être du chêne, et dégage une atmosphère chaleureuse et accueillante.
+
+Sur le côté gauche du placard, on trouve plusieurs étagères et tiroirs, tous remplis de vêtements pliés. Un coussin ou une couverture à motifs bleus et blancs est posé sur l'étagère du haut, surmonté de deux chapeaux de paille. En dessous, une petite boîte bleu clair portant l'inscription "GOBELETS GIGOGNE" est visible.
+
+La partie droite du placard est dotée d'une penderie où sont suspendus divers vêtements. On y voit plusieurs robes et chemises de couleurs et de motifs variés, notamment une robe en vichy rose et blanc, une robe bleue, une robe jaune et une chemise à carreaux rouges et noirs. Les vêtements sont tous soigneusement suspendus sur des cintres en bois.
+
+L'impression générale est celle d'un espace ordonné et domestique. Le placard est bien organisé et les vêtements sont propres et bien entretenus. Il semble s'agir d'un instantané de l'espace personnel de quelqu'un, offrant un aperçu de sa vie et de son style. L'éclairage est doux et chaleureux, ce qui renforce l'atmosphère douillette et intime de la scène.
