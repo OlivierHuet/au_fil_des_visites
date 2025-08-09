@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://olivierhuet.github.io/au_fil_des_visites/'
 languageCode = 'fr-fr'
-title = 'Au fil des dimanches'
+title = 'Au fil des visites'
 theme = 'nibble'
 copyright = 'Olivier Huet'
 capitalizeListTitles = false
