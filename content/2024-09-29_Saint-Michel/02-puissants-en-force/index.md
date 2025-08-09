@@ -2,7 +2,7 @@
 title = 'Puissants en force'
 date = 2024-09-29T17:30:44+02:00
 weight = 10
-draft = false
+draft = true
 +++
 
 Puissants en force. Les Anges sont puissants en force. C'est leur raison de bénir le Seigneur. C'est-à-dire celui qui leur a donné cette force, qui est réelle. Se sentir puissant en force, sans fatigue, faire de grandes choses sans effort dans l'univers immense, n'est-ce pas quelque chose qui remplit l'esprit de gratitude !

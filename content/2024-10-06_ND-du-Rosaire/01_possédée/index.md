@@ -1,7 +1,7 @@
 +++
 title = 'Posséder'
 date = 2024-10-08T08:39:31+02:00
-draft = false
+draft = true
 +++
 Paraphrase d'un extrait du livre de la Sagesse tirée de l'Épître<!--more--> 
 

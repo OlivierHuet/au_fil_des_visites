@@ -1,7 +1,7 @@
 +++
 title = 'Prophètesse Anne'
 date = 2024-10-17T16:20:00+02:00
-draft = false
+draft = true
 weight = 10
 +++
 *Il y avait une prophètesse Anne, fille de Phanuel, de la tribu d'Aser. Elle était fort avancée en âge, et elle avait vécu sept ans avec son mari depuis sa virginité. Luc 2:36*

@@ -1,7 +1,7 @@
 +++
 title = '99_priere'
 date = 2024-10-10T09:05:56+02:00
-draft = false
+draft = true
 +++
 Ô Notre Dame des Sept Douleurs, qui avez été promue à une félicité au-dessus de celle des Anges par le Juste juge, souvenez-vous de ce glaive qui transperça votre coeur et ne nous laissez pas impuissants à vous consoler, puisque c'est la volonté de Dieu.
 
