@@ -1,34 +1,36 @@
 
 {{ define "main" }}
-
-    <div class="card-body border w-50 m-auto">
+<div class="container">
+    <div class="row">
+        <!-- On medium and large screens, center the content and limit its width -->
+        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+            <nav class="float-left">
+                {{with .NextInSection}}
+                    <a href="{{ .RelPermalink }}">Précédent</a>
+                {{end}} 
+            </nav>
+            <div class="card-body" >
         
-        <nav class="font-weight-light border">
-            {{with .NextInSection}}
-                <a href="{{ .RelPermalink }}">Précédent</a>
-            {{end}} 
-        </nav>
-    
-    
-        <h2 class="card-title text-center border-primary">{{ .Title }}</h2>
-    
-    <div class="card-img">       
-            {{ range .Resources.ByType "image" }}
-            <img src="{{ .RelPermalink }}"  class="rounded" height="100px" alt="{{ .Title }}" />
-            {{ end }}
-    </div>
-    
-    <div class="card-text border">
-        {{ .Content }}
-    </div>
-        
+            <div class="card-img-top">       
+                    {{ range .Resources.ByType "image" }}
+                    <img src="{{ .RelPermalink }}"  class="img-fluid" alt="{{ .Title }}" />
+                    {{ end }}
+            </div>
+            <h2 class="card-title text-center">{{ .Title }}</h2>
+            <div class="card-text">
+                {{ .Content }}
+            </div>
+                
 
-    <nav class="font-weight-light align-right">
-        {{with .PrevInSection}}
-        <a href="{{ .RelPermalink }}">Suivant</a>
-        {{end}}
-    </nav>
-    </div>        
+            <nav class="float-right">
+                {{with .PrevInSection}}
+                <a href="{{ .RelPermalink }}">Suivant</a>
+                {{end}}
+            </nav>
+            </div>        
+        </div>
+    </div>
+</div>
        
     <!--{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}-->
 <!--

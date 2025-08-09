@@ -1,0 +1,17 @@
+{{/*
+  Shortcode pour afficher une image avec une légende et un alignement optionnel.
+  Usage:
+  {{< figure src="/path/to/image.jpg" caption="Une légende." alt="Texte alternatif." align="left" >}}
+*/}}
+<figure class="
+  {{- with .Get "align" -}}
+    figure-{{ . }}
+  {{- end -}}
+">
+  <img src="{{ .Get "src" }}" 
+       alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | plainify }}{{ end }}"
+       loading="lazy">
+  {{ with .Get "caption" }}
+    <figcaption>{{ . | markdownify }}</figcaption>
+  {{ end }}
+</figure>
